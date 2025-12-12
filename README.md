@@ -10,14 +10,28 @@
 </div>
 
 <div align="center">
-    <h2 align="center">My Stack</h2>
-    <div>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-    </div>
+    <h2 align="center">Frontend skills</h2>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,angular,tailwind,bootstrap"/>
+</div>
+
+<div align="center">
+    <h2 align="center">Backend skills</h2>
+    <img src="https://skillicons.dev/icons?i=cs,go,py,django,fastapi"/>
+</div>
+
+<div align="center">
+    <h2 align="center">My redactors</h2>
+    <img src="https://skillicons.dev/icons?i=vscode,webstorm,rider,clion,pycharm"/>
+</div>
+
+<div align="center">
+    <h2 align="center">My favorite db</h2>
+    <img src="https://skillicons.dev/icons?i=postgres,sqlite,mongo"/>
+</div>
+
+<div align="center">
+    <h2 align="center">Other</h2>
+    <img src="https://skillicons.dev/icons?i=git,postman,nginx,docker,linux,discordjs,obsidian,notion,md,bash"/>
 </div>
 
 <div align="center">
