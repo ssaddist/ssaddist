@@ -21,7 +21,7 @@
 
 <div align="center">
     <h2 align="center">My redactors</h2>
-    <img src="https://skillicons.dev/icons?i=vscode,webstorm,rider,clion,pycharm"/>
+    <img src="https://skillicons.dev/icons?i=vscode,webstorm,rider,pycharm"/>
 </div>
 
 <div align="center">
