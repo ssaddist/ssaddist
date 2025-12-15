@@ -3,9 +3,11 @@
 </div>
 <div align="">
   <h2 align="center">About Me</h2>
+  <div style="display:flex;justify-content: center;">
   <p>
     Hello! I'm Alex, a passionate developer who loves coding and exploring new technologies.<br/> Welcome to my GitHub profile where I share my projects and contributions.
   </p>
+  </div>
 </div>
 
 ---
