@@ -39,11 +39,6 @@ I am a passionate software engineer specializing in building high-performance we
 <h2 align="center">GitHub Analytics</h2>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ssaddist&show_icons=true&theme=tokyonight&hide_border=true" alt="ssaddist's GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssaddist&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-</p>
-
-<p align="center">
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=ssaddist&theme=tokyonight&hide_border=true" alt="git streak" />
 </p>
 
