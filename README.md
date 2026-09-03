@@ -39,7 +39,7 @@ I am a passionate software engineer specializing in building high-performance we
 <h2 align="center">GitHub Analytics</h2>
 
 <p align="center">
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=ssaddist&theme=tokyonight&hide_border=true" alt="git streak" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=ssaddist&theme=tokyonight&hide_border=true&timezone=Europe/Kyiv" alt="git streak" />
 </p>
 
 <h2 align="center">Let's Connect!</h2>
